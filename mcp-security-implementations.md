@@ -1229,7 +1229,7 @@ def demo_data_exfiltration():
     sensitive_data = {
         "api_keys": {
             "aws": "AKIAIOSFODNN7EXAMPLE",
-            aqui va un secreto 
+            "stripe": "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
         },
         "database": {
             "host": "prod-db.example.com",
